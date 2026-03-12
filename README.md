@@ -27,3 +27,9 @@ This project demonstrates object detection using Python in Google Colab.
 ## 📎 Notebook
 
 The main notebook file is:
+
+## 👤 Author
+
+**PEECHU MANMITH REDDY**  
+B.Tech AI & Data Science
+
